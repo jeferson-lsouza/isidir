@@ -1,0 +1,31 @@
+{
+  "name": "jeferson-lsouza/isidir",
+  "description": "Componente responsável para gestão de arquivos e pastas.",
+  "keywords": [
+    "Folders PHP",
+    "Isi",
+    "Jeferson L Souza",
+    "Jeferson Souza",
+    "IsiDir",
+    "Manage Directories PHP",
+    "Remove Directores",
+    "Remove Files"
+  ],
+  "homepage": "http://interligsolucoes.com.br/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jeferson Souza",
+      "email": "contato@interligsolucoes.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Developers\\": "Developers"
+    }
+  }
+}
